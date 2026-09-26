@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  research-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nvidia_research_agent
+    env_file:
+      - .env
+    volumes:
+      - ./research_queue.md:/app/research_queue.md
+      - ./research_outputs:/app/research_outputs
+    restart: "no"
