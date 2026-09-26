@@ -1,0 +1,11 @@
+# Environment variables & virtual environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Temporary or binary installer files
+get-pip.py
+user_input.txt
+image.jpeg
+test_script.py
