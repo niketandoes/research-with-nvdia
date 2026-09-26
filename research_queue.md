@@ -1,4 +1,4 @@
-- [x] Perform a comprehensive research study and generate a detailed analytical report based on the following prompt and problem statement:
+- [ ] Perform a comprehensive research study and generate a detailed analytical report based on the following prompt and problem statement:
 
 Do the following, in order, and don't skip steps:
 
