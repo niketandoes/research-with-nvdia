@@ -28,7 +28,7 @@ An automated research agent powered by NVIDIA's Integrated API endpoints (`https
 Create or update the `.env` file in the root directory with your NVIDIA API key:
 
 ```env
-NVIDIA_API_KEY=your_nvidia_api_key_here
+NVIDIA_API_KEY=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
 ```
 
 ---
